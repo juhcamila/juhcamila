@@ -12,8 +12,3 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos focados em de
 ## Tecnologias e Ferramentas
 
 ![Tecnologias](https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,postgres,docker,redis,git,github,sequelize)
-
-## Estatísticas do GitHub
-
-![Juh Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhcamila&show_icons=true&theme=radical)
-
