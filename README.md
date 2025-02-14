@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos focados em de
 
 ## Tecnologias e Ferramentas
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,postgres,docker,redis,git,github,sequelize" alt="Tecnologias" />
+![Tecnologias](https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,postgres,docker,redis,git,github,sequelize)
 
 ## Estatísticas do GitHub
 
